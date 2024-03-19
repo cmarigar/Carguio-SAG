@@ -232,4 +232,4 @@ if st.button('Validar reposicion SAG17'):
 
 
 
-#data.to_csv('pi_inicial_op.csv')
+data.to_csv('pi_inicial_op.csv')
